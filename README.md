@@ -2,8 +2,26 @@
 
 
 
+
+
+
+
+
+
+
+
+
 # CHAPÉU DE PALHA R$30,00
 ![image](https://github.com/rdsantos33/lojassaojoao1/assets/134704668/0e46e148-e328-44a2-9396-f8d7ee31d587)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -12,8 +30,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
 # VESTIDO FEMININO PARA FESTA JUNINA(QUALQUER COR) R$70,99
 ![image](https://github.com/rdsantos33/lojassaojoao1/assets/134704668/608de629-cfca-4be5-9d1b-2b3c9d5ff24a)
+
+
+
+
+
+
+
+
 
 
 
@@ -24,5 +59,5 @@
 
 
 
-TUDO AQUI NAS LOJAS SÃO JOÃO 
-LOCAL: RUA BEM-TE-VI 241
+# TUDO AQUI NAS LOJAS SÃO JOÃO 
+# LOCAL: RUA BEM-TE-VI 241
